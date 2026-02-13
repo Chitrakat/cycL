@@ -1,0 +1,919 @@
+2026-02-13 11:19:33 ERROR Missing API key in env var: YOUTUBE_API_KEY
+2026-02-13 11:21:49 ERROR Missing API key in env var: AIzaSyBh2O6kt4Pe6edX6BXUmqSyU6PROpbGAe8
+2026-02-13 11:22:40 INFO Fetching playlist: PL74NyGJVAdyGtwuKLLLzW8TI9L1Lp4t11
+2026-02-13 11:22:41 INFO Fetching playlist: PL74NyGJVAdyEijsnDAFqrEYYvb6iCtrsK
+2026-02-13 11:22:41 INFO Found 149 unique videos
+2026-02-13 11:22:42 ERROR Failed processing -ujldbw4rYY
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:42 ERROR Failed processing -zaE5zJrvnw
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:42 ERROR Failed processing 0QhIwch0T2k
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:42 ERROR Failed processing 1q4J79Gxvi8
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:42 ERROR Failed processing 1rOtERkbeRY
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:42 ERROR Failed processing 2KuIUUW4CbI
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:42 ERROR Failed processing 2WYWuEUSWns
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:42 ERROR Failed processing 4Ek31_3PMW4
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:43 ERROR Failed processing 6I_GpZZUWhQ
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:43 ERROR Failed processing 6iObJAItynU
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:43 ERROR Failed processing 7Nxhie5X1tA
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:43 ERROR Failed processing 7gxwfezzqdQ
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:43 ERROR Failed processing 8juOXfj7-S4
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:43 ERROR Failed processing 8w-FuRMilH4
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:44 ERROR Failed processing BvStoiM0z48
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:44 ERROR Failed processing CKlHcg-yBVo
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:44 ERROR Failed processing ChBZ9Hp-zqE
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:44 ERROR Failed processing Cvy9-NNiEio
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:44 ERROR Failed processing Fa-V3zf7-wE
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing GRru5z8lW3Q
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing GyyPvfzGscY
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing I8P6ngXhGRY
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing IfR1l3a3uNA
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing J9fAk04oTtA
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing KJvt6xOUep4
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing MvO2LRlVsyI
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing N5Xo9WPloew
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing Nm2birGdJqk
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing Od14d1MyoOc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing Om1XM6tJ9Ak
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:45 ERROR Failed processing PSfKV8jYSrw
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing Pln_nGVk7Js
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing PuC4slucVrk
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing Pvg9c0-iYgg
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing QB69Pwl6GI8
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing QR-cFEYn0FM
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing QUoToFsMNig
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing QVUEWb88iv0
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing QklBrfmChro
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing QuKEyPhRrMM
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing RaIRVHAPR9A
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing TDVExXAtQYw
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:46 ERROR Failed processing TgspMhC3IWU
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:47 ERROR Failed processing UKenONcURLI
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:47 ERROR Failed processing UVEmmw6mQdI
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:47 ERROR Failed processing Umrgux4acGQ
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:47 ERROR Failed processing WKK7_6RZZNM
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:47 ERROR Failed processing WWmYrjOworw
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:47 ERROR Failed processing Wnqm7T2WpE4
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:47 ERROR Failed processing WtFXazEPxcA
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing YipJAsAj5Kc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing ZiGE3-L4vyg
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing _DfOulVPpdM
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing a1vLzLHzbgc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing aVUtuoNBLRI
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing bEfCKGBJc6k
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing c-LNKkUQ5Wc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing cTs2fwpqBbg
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing cfIaZsOZ_us
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing d4EuOnDiilo
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:48 ERROR Failed processing d6oWk-C2164
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing eNyVyngn0l8
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing ew1oXzVC-7M
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing ewrf_rCHUdA
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing fEKKHAEg_B8
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing fU22PlDpiSw
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing gryPYiipR5M
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing iR9quS91C40
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing iif-w7vDdMs
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing jY8MwfuyK94
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing jsfxXUiMjzc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing k0xAOVmL6zg
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing kQn0bykg7j0
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:49 ERROR Failed processing kn0KhpQgpr4
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing lQxo1lZ8H1Q
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing lUqhsi_D4l4
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing leMhp6CDr3M
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing mY_TLS9fo20
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing ndh2LxWvwTc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing nm0-zczXcik
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing p_HF6m2-i8Y
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing paPUOE14KLk
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing qIh2PXq1Oz0
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing qTIM0tqWoTU
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing rNGNgLA-PeA
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:50 ERROR Failed processing sNZkm6a0MLc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing uGnWzZ6kXrA
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing uZOBOsNKi7E
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing v8A-qBWSMK0
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing vIq0l_nvYKc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing vZ-7ciRpO5s
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing vyWJ6PCsjGI
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing wBVCTLKXdtE
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing whHlEyjalrc
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:51 ERROR Failed processing ww8rVspvaLw
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:52 ERROR Failed processing yOJ56kSnsQw
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:52 ERROR Failed processing yS91kZgp1zo
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:52 ERROR Failed processing ybLM983BOCk
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:52 ERROR Failed processing yi-QGmyKhL4
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:52 ERROR Failed processing ymPISBYuUew
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:52 ERROR Failed processing ziTiZVGoinE
+Traceback (most recent call last):
+  File "C:\MAIN\WORK\cycL\cycL\main.py", line 89, in main
+    intervals = parse_transcript_intervals(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\MAIN\WORK\cycL\cycL\src\cycling_workout_extractor\parser.py", line 81, in parse_transcript_intervals
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2026-02-13 11:22:52 INFO Done
+2026-02-13 11:25:16 INFO Fetching playlist: PL74NyGJVAdyGtwuKLLLzW8TI9L1Lp4t11
+2026-02-13 11:25:17 INFO Fetching playlist: PL74NyGJVAdyEijsnDAFqrEYYvb6iCtrsK
+2026-02-13 11:25:17 INFO Found 149 unique videos
+2026-02-13 11:25:28 INFO Done

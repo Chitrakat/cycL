@@ -1,0 +1,162 @@
+{
+  "video_id": "xIGaVRXPQ-Y",
+  "title": "The Climb | 30 Minute HIIT Indoor Cycling Workout",
+  "url": "https://www.youtube.com/watch?v=xIGaVRXPQ-Y",
+  "workout_type": "HIIT",
+  "duration_minutes": 30,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 2/10"
+    },
+    {
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "duration_seconds": 60,
+      "power_level": "4/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 4/10"
+    },
+    {
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 6/10"
+    },
+    {
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 8/10"
+    },
+    {
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "duration_seconds": 60,
+      "power_level": "1/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 1/10"
+    },
+    {
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "duration_seconds": 120,
+      "power_level": "5/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 5/10"
+    },
+    {
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 6/10"
+    },
+    {
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 8/10"
+    },
+    {
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 2/10"
+    },
+    {
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "duration_seconds": 180,
+      "power_level": "5/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 3 mins @ 5/10"
+    },
+    {
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "duration_seconds": 120,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 6/10"
+    },
+    {
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "duration_seconds": 120,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 8/10"
+    },
+    {
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 2/10"
+    },
+    {
+      "start_time": "18:00",
+      "end_time": "21:00",
+      "duration_seconds": 180,
+      "power_level": "5/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 3 mins @ 5/10"
+    },
+    {
+      "start_time": "21:00",
+      "end_time": "24:00",
+      "duration_seconds": 180,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 3 mins @ 6/10"
+    },
+    {
+      "start_time": "24:00",
+      "end_time": "27:00",
+      "duration_seconds": 180,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 3 mins @ 8/10"
+    },
+    {
+      "start_time": "27:00",
+      "end_time": "30:03",
+      "duration_seconds": 183,
+      "power_level": "2/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 3 mins @ 2/10"
+    }
+  ]
+}

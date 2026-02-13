@@ -1,0 +1,162 @@
+{
+  "video_id": "br5q9MrVVeU",
+  "title": "Gradual Threshold Effort Builds | 30 Minute Indoor Cycling Workout",
+  "url": "https://www.youtube.com/watch?v=br5q9MrVVeU",
+  "workout_type": "Sweet Spot",
+  "duration_minutes": 30,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "duration_seconds": 60,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "duration_seconds": 60,
+      "power_level": "7/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 7/10 (80 rpm)"
+    },
+    {
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "05:00",
+      "end_time": "08:00",
+      "duration_seconds": 180,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "duration_seconds": 120,
+      "power_level": "8/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 8/10 (80 rpm)"
+    },
+    {
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "11:00",
+      "end_time": "14:00",
+      "duration_seconds": 180,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "duration_seconds": 120,
+      "power_level": "8/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 8/10 (80 rpm)"
+    },
+    {
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "17:00",
+      "end_time": "20:00",
+      "duration_seconds": 180,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "duration_seconds": 120,
+      "power_level": "8/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 8/10 (80 rpm)"
+    },
+    {
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "23:00",
+      "end_time": "26:00",
+      "duration_seconds": 180,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "26:00",
+      "end_time": "28:00",
+      "duration_seconds": 120,
+      "power_level": "8/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 8/10 (80 rpm)"
+    },
+    {
+      "start_time": "28:00",
+      "end_time": "30:03",
+      "duration_seconds": 123,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    }
+  ]
+}

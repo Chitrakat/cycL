@@ -1,0 +1,72 @@
+{
+  "video_id": "Tcw22Yph2u0",
+  "title": "40 Minute HIIT Workout | Boost Your Climbing Power",
+  "url": "https://www.youtube.com/watch?v=Tcw22Yph2u0",
+  "workout_type": "HIIT",
+  "duration_minutes": 40,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "05:34",
+      "duration_seconds": 334,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "warmup",
+      "description": "- Intro & Warm Up"
+    },
+    {
+      "start_time": "05:34",
+      "end_time": "09:04",
+      "duration_seconds": 210,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 30 Second Openers"
+    },
+    {
+      "start_time": "09:04",
+      "end_time": "18:04",
+      "duration_seconds": 540,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Block 1"
+    },
+    {
+      "start_time": "18:04",
+      "end_time": "26:24",
+      "duration_seconds": 500,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Block 2"
+    },
+    {
+      "start_time": "26:24",
+      "end_time": "33:50",
+      "duration_seconds": 446,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Block 3"
+    },
+    {
+      "start_time": "33:50",
+      "end_time": "38:05",
+      "duration_seconds": 255,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Block 4: The Final Ramp"
+    },
+    {
+      "start_time": "38:05",
+      "end_time": "40:06",
+      "duration_seconds": 121,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "cooldown",
+      "description": "- Cool Down & Outro"
+    }
+  ]
+}

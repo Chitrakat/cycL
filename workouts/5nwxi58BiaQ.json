@@ -1,0 +1,162 @@
+{
+  "video_id": "5nwxi58BiaQ",
+  "title": "Running On Empty | 25 Minute Indoor Cycling Workout",
+  "url": "https://www.youtube.com/watch?v=5nwxi58BiaQ",
+  "workout_type": "Power",
+  "duration_minutes": 25,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "00:04",
+      "duration_seconds": 4,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Intro"
+    },
+    {
+      "start_time": "00:04",
+      "end_time": "02:04",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 2/10"
+    },
+    {
+      "start_time": "02:04",
+      "end_time": "04:04",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 4/10"
+    },
+    {
+      "start_time": "04:04",
+      "end_time": "06:04",
+      "duration_seconds": 120,
+      "power_level": "7/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 7/10"
+    },
+    {
+      "start_time": "06:04",
+      "end_time": "08:04",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 2/10"
+    },
+    {
+      "start_time": "08:04",
+      "end_time": "10:04",
+      "duration_seconds": 120,
+      "power_level": "9/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 9/10"
+    },
+    {
+      "start_time": "10:04",
+      "end_time": "11:04",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 6/10"
+    },
+    {
+      "start_time": "11:04",
+      "end_time": "12:04",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 8/10"
+    },
+    {
+      "start_time": "12:04",
+      "end_time": "13:04",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 6/10"
+    },
+    {
+      "start_time": "13:04",
+      "end_time": "14:04",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 8/10"
+    },
+    {
+      "start_time": "14:04",
+      "end_time": "15:04",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 6/10"
+    },
+    {
+      "start_time": "15:04",
+      "end_time": "16:04",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 8/10"
+    },
+    {
+      "start_time": "16:04",
+      "end_time": "17:04",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 6/10"
+    },
+    {
+      "start_time": "17:04",
+      "end_time": "18:04",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 8/10"
+    },
+    {
+      "start_time": "18:04",
+      "end_time": "19:04",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 mins @ 6/10"
+    },
+    {
+      "start_time": "19:04",
+      "end_time": "22:04",
+      "duration_seconds": 180,
+      "power_level": "8/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 3 mins @ 8/10"
+    },
+    {
+      "start_time": "22:04",
+      "end_time": "25:04",
+      "duration_seconds": 180,
+      "power_level": "2/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 3 mins @ 2/10"
+    }
+  ]
+}

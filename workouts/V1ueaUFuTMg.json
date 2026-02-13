@@ -1,0 +1,153 @@
+{
+  "video_id": "V1ueaUFuTMg",
+  "title": "VO2 Max Race Simulation! | 30 Mins HIIT Cycling Workout",
+  "url": "https://www.youtube.com/watch?v=V1ueaUFuTMg",
+  "workout_type": "HIIT",
+  "duration_minutes": 30,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "02:03",
+      "duration_seconds": 123,
+      "power_level": "1/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 1/10"
+    },
+    {
+      "start_time": "02:03",
+      "end_time": "04:03",
+      "duration_seconds": 120,
+      "power_level": "5/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 5/10"
+    },
+    {
+      "start_time": "04:03",
+      "end_time": "06:03",
+      "duration_seconds": 120,
+      "power_level": "3/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 3/10"
+    },
+    {
+      "start_time": "06:03",
+      "end_time": "07:33",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1.5 mins @ 10/10"
+    },
+    {
+      "start_time": "07:33",
+      "end_time": "09:03",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10"
+    },
+    {
+      "start_time": "09:03",
+      "end_time": "11:03",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 1/10"
+    },
+    {
+      "start_time": "11:03",
+      "end_time": "12:33",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10"
+    },
+    {
+      "start_time": "12:33",
+      "end_time": "14:03",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1.5 mins @ 10/10"
+    },
+    {
+      "start_time": "14:03",
+      "end_time": "16:03",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 1/10"
+    },
+    {
+      "start_time": "16:03",
+      "end_time": "17:33",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1.5 mins @ 10/10"
+    },
+    {
+      "start_time": "17:33",
+      "end_time": "19:03",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10"
+    },
+    {
+      "start_time": "19:03",
+      "end_time": "21:03",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 1/10"
+    },
+    {
+      "start_time": "21:03",
+      "end_time": "23:33",
+      "duration_seconds": 150,
+      "power_level": "7/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2.5 mins @ 7/10"
+    },
+    {
+      "start_time": "23:33",
+      "end_time": "26:03",
+      "duration_seconds": 150,
+      "power_level": "10/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2.5 mins @ 10/10"
+    },
+    {
+      "start_time": "26:03",
+      "end_time": "28:03",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 1/10"
+    },
+    {
+      "start_time": "28:03",
+      "end_time": "30:10",
+      "duration_seconds": 127,
+      "power_level": "3/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 2 mins @ 3/10"
+    }
+  ]
+}

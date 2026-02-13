@@ -1,0 +1,99 @@
+{
+  "video_id": "Ndia-ql47Yc",
+  "title": "Tough Time Trial Efforts | 35 Minute Indoor Cycling Workout",
+  "url": "https://www.youtube.com/watch?v=Ndia-ql47Yc",
+  "workout_type": "Zone 2",
+  "duration_minutes": 35,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "00:03",
+      "duration_seconds": 3,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Intro"
+    },
+    {
+      "start_time": "00:03",
+      "end_time": "02:03",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "02:03",
+      "end_time": "04:03",
+      "duration_seconds": 120,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "04:03",
+      "end_time": "06:03",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "06:03",
+      "end_time": "07:03",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 min @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "07:03",
+      "end_time": "09:03",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "09:03",
+      "end_time": "19:03",
+      "duration_seconds": 600,
+      "power_level": "8/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 10 mins @ 8/10 (90 rpm)"
+    },
+    {
+      "start_time": "19:03",
+      "end_time": "22:13",
+      "duration_seconds": 190,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "22:13",
+      "end_time": "32:03",
+      "duration_seconds": 590,
+      "power_level": "8/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 10 mins @ 8/10 (90 rpm)"
+    },
+    {
+      "start_time": "32:03",
+      "end_time": "35:09",
+      "duration_seconds": 186,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 2/10 (80 rpm)"
+    }
+  ]
+}

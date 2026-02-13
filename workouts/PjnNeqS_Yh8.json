@@ -1,0 +1,126 @@
+{
+  "video_id": "PjnNeqS_Yh8",
+  "title": "Ollie\u2019s Zone 2 Tour Des Stations Training | 30 Minute Indoor Cycling Workout",
+  "url": "https://www.youtube.com/watch?v=PjnNeqS_Yh8",
+  "workout_type": "Zone 2",
+  "duration_minutes": 30,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "duration_seconds": 60,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "02:00",
+      "end_time": "04:00",
+      "duration_seconds": 120,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "05:00",
+      "end_time": "09:00",
+      "duration_seconds": 240,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 4 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "11:00",
+      "end_time": "15:00",
+      "duration_seconds": 240,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 4 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "17:00",
+      "end_time": "21:00",
+      "duration_seconds": 240,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 4 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "21:00",
+      "end_time": "23:00",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "23:00",
+      "end_time": "27:00",
+      "duration_seconds": 240,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 4 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "27:00",
+      "end_time": "29:00",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "29:00",
+      "end_time": "30:09",
+      "duration_seconds": 69,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    }
+  ]
+}

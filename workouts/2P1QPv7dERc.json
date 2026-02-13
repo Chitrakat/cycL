@@ -1,0 +1,162 @@
+{
+  "video_id": "2P1QPv7dERc",
+  "title": "Strength Builder & Quad Burner | 30 Minute Indoor Cycling Workout",
+  "url": "https://www.youtube.com/watch?v=2P1QPv7dERc",
+  "workout_type": "Power",
+  "duration_minutes": 30,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "02:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "02:00",
+      "end_time": "04:00",
+      "duration_seconds": 120,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 5/10 (80 rpm)"
+    },
+    {
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "duration_seconds": 120,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "07:00",
+      "end_time": "11:00",
+      "duration_seconds": 240,
+      "power_level": "8/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 4 mins @ 8/10 (80 rpm)"
+    },
+    {
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "duration_seconds": 180,
+      "power_level": "8/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 8/10 (80 rpm)"
+    },
+    {
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "duration_seconds": 120,
+      "power_level": "8/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 2 mins @ 8/10 (100 rpm)"
+    },
+    {
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 1 mins @ 8/10 (100 rpm)"
+    },
+    {
+      "start_time": "23:00",
+      "end_time": "25:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "25:00",
+      "end_time": "25:30",
+      "duration_seconds": 30,
+      "power_level": "8/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 0.5 mins @ 8/10 (100 rpm)"
+    },
+    {
+      "start_time": "25:30",
+      "end_time": "26:30",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "26:30",
+      "end_time": "27:30",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 0.25 mins @ 8/10 (100 rpm)"
+    },
+    {
+      "start_time": "27:30",
+      "end_time": "29:00",
+      "duration_seconds": 90,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1.25 mins @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "29:00",
+      "end_time": "30:03",
+      "duration_seconds": 63,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    }
+  ]
+}

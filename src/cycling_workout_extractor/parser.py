@@ -78,8 +78,11 @@ def parse_transcript_intervals(
     video_id: str, total_duration_seconds: int
 ) -> list[dict[str, Any]]:
     try:
-        transcript = YouTubeTranscriptApi.get_transcript(video_id)
+        transcript = _fetch_transcript(video_id)
     except (TranscriptsDisabled, NoTranscriptFound):
+        return []
+
+    if not transcript:
         return []
 
     intervals: list[dict[str, Any]] = []
@@ -116,6 +119,42 @@ def parse_transcript_intervals(
         )
 
     return intervals
+
+
+def _fetch_transcript(video_id: str) -> list[dict[str, Any]]:
+    if hasattr(YouTubeTranscriptApi, "get_transcript"):
+        return YouTubeTranscriptApi.get_transcript(video_id)
+
+    api = YouTubeTranscriptApi() if callable(YouTubeTranscriptApi) else None
+    if api and hasattr(api, "get_transcript"):
+        return api.get_transcript(video_id)
+
+    transcripts = None
+    if hasattr(YouTubeTranscriptApi, "list_transcripts"):
+        transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
+    elif api and hasattr(api, "list_transcripts"):
+        transcripts = api.list_transcripts(video_id)
+
+    if not transcripts:
+        return []
+
+    try:
+        return transcripts.find_transcript(["en"]).fetch()
+    except Exception:  # noqa: BLE001
+        pass
+
+    try:
+        return transcripts.find_generated_transcript(["en"]).fetch()
+    except Exception:  # noqa: BLE001
+        pass
+
+    for transcript in transcripts:
+        try:
+            return transcript.fetch()
+        except Exception:  # noqa: BLE001
+            continue
+
+    return []
 
 
 def _build_interval(

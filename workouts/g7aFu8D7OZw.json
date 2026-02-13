@@ -1,0 +1,180 @@
+{
+  "video_id": "g7aFu8D7OZw",
+  "title": "The Hurt Locker | 30 Minutes Indoor Cycling HIIT",
+  "url": "https://www.youtube.com/watch?v=g7aFu8D7OZw",
+  "workout_type": "HIIT",
+  "duration_minutes": 30,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "00:04",
+      "duration_seconds": 4,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Intro"
+    },
+    {
+      "start_time": "00:04",
+      "end_time": "01:04",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 min @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "01:04",
+      "end_time": "02:04",
+      "duration_seconds": 60,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 min @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "02:04",
+      "end_time": "03:04",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 min @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "03:04",
+      "end_time": "05:04",
+      "duration_seconds": 120,
+      "power_level": "7/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 7/10 (80 rpm)"
+    },
+    {
+      "start_time": "05:04",
+      "end_time": "06:04",
+      "duration_seconds": 60,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 min @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "06:04",
+      "end_time": "07:34",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 1 min 30 secs @ 10/10 (100 rpm)"
+    },
+    {
+      "start_time": "07:34",
+      "end_time": "09:34",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 1/10 (80 rpm)"
+    },
+    {
+      "start_time": "09:34",
+      "end_time": "11:04",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 1 min 30 secs @ 10/10 (100 rpm)"
+    },
+    {
+      "start_time": "11:04",
+      "end_time": "13:04",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 1/10 (80 rpm)"
+    },
+    {
+      "start_time": "13:04",
+      "end_time": "14:34",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 1 min 30 secs @ 10/10 (100 rpm)"
+    },
+    {
+      "start_time": "14:34",
+      "end_time": "16:34",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 min @ 1/10 (80 rpm)"
+    },
+    {
+      "start_time": "16:34",
+      "end_time": "18:04",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 1 min 30 secs @ 10/10 (100 rpm)"
+    },
+    {
+      "start_time": "18:04",
+      "end_time": "20:04",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 min @ 1/10 (80 rpm)"
+    },
+    {
+      "start_time": "20:04",
+      "end_time": "21:34",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 1 min 30 secs @ 10/10 (100 rpm)"
+    },
+    {
+      "start_time": "21:34",
+      "end_time": "23:34",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 min @ 1/10 (80 rpm)"
+    },
+    {
+      "start_time": "23:34",
+      "end_time": "25:04",
+      "duration_seconds": 90,
+      "power_level": "10/10",
+      "cadence_rpm": 100,
+      "zone": "",
+      "description": "- 1 min 30 secs @ 10/10 (100 rpm)"
+    },
+    {
+      "start_time": "25:04",
+      "end_time": "27:04",
+      "duration_seconds": 120,
+      "power_level": "1/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 1/10 (80 rpm)"
+    },
+    {
+      "start_time": "27:04",
+      "end_time": "30:05",
+      "duration_seconds": 181,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 4/10 (80 rpm)"
+    }
+  ]
+}

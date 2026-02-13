@@ -1,0 +1,207 @@
+{
+  "video_id": "a22l-aeYhB0",
+  "title": "Over/Under Threshold Efforts | 35 Minute HIIT Indoor Cycling Workout",
+  "url": "https://www.youtube.com/watch?v=a22l-aeYhB0",
+  "workout_type": "HIIT",
+  "duration_minutes": 35,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "01:04",
+      "duration_seconds": 64,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "01:04",
+      "end_time": "03:04",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "03:04",
+      "end_time": "04:04",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "04:04",
+      "end_time": "06:04",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "06:04",
+      "end_time": "07:34",
+      "duration_seconds": 90,
+      "power_level": "9/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 9/10 (90 rpm)"
+    },
+    {
+      "start_time": "07:34",
+      "end_time": "09:04",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "09:04",
+      "end_time": "10:34",
+      "duration_seconds": 90,
+      "power_level": "9/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 9/10 (90 rpm)"
+    },
+    {
+      "start_time": "10:34",
+      "end_time": "12:04",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "12:04",
+      "end_time": "13:34",
+      "duration_seconds": 90,
+      "power_level": "9/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 9/10 (90 rpm)"
+    },
+    {
+      "start_time": "13:34",
+      "end_time": "15:04",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "15:04",
+      "end_time": "16:34",
+      "duration_seconds": 90,
+      "power_level": "9/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 9/10 (90 rpm)"
+    },
+    {
+      "start_time": "16:34",
+      "end_time": "18:04",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "18:04",
+      "end_time": "20:04",
+      "duration_seconds": 120,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "20:04",
+      "end_time": "21:34",
+      "duration_seconds": 90,
+      "power_level": "9/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 9/10 (90 rpm)"
+    },
+    {
+      "start_time": "21:34",
+      "end_time": "23:04",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "23:04",
+      "end_time": "24:34",
+      "duration_seconds": 90,
+      "power_level": "9/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 9/10 (90 rpm)"
+    },
+    {
+      "start_time": "24:34",
+      "end_time": "26:04",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "26:04",
+      "end_time": "27:34",
+      "duration_seconds": 90,
+      "power_level": "9/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 9/10 (90 rpm)"
+    },
+    {
+      "start_time": "27:34",
+      "end_time": "29:04",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "29:04",
+      "end_time": "30:34",
+      "duration_seconds": 90,
+      "power_level": "9/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 9/10 (90 rpm)"
+    },
+    {
+      "start_time": "30:34",
+      "end_time": "32:04",
+      "duration_seconds": 90,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1.5 mins @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "32:04",
+      "end_time": "35:08",
+      "duration_seconds": 184,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 3/10 (80 rpm)"
+    }
+  ]
+}

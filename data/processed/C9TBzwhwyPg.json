@@ -1,0 +1,144 @@
+{
+  "video_id": "C9TBzwhwyPg",
+  "title": "Easy Cadence Workout | 25 Minute Indoor Cycling HIIT",
+  "url": "https://www.youtube.com/watch?v=C9TBzwhwyPg",
+  "workout_type": "HIIT",
+  "duration_minutes": 25,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "00:03",
+      "duration_seconds": 3,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Intro"
+    },
+    {
+      "start_time": "00:03",
+      "end_time": "02:03",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "02:03",
+      "end_time": "04:03",
+      "duration_seconds": 120,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "04:03",
+      "end_time": "06:03",
+      "duration_seconds": 120,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "06:03",
+      "end_time": "08:03",
+      "duration_seconds": 120,
+      "power_level": "6/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 6/10 (90 rpm)"
+    },
+    {
+      "start_time": "08:03",
+      "end_time": "09:03",
+      "duration_seconds": 60,
+      "power_level": "7/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1 min @ 7/10 (90 rpm)"
+    },
+    {
+      "start_time": "09:03",
+      "end_time": "10:03",
+      "duration_seconds": 60,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 min @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "10:03",
+      "end_time": "13:03",
+      "duration_seconds": 180,
+      "power_level": "7/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 3 mins @ 7/10 (choose cadence)"
+    },
+    {
+      "start_time": "13:03",
+      "end_time": "14:03",
+      "duration_seconds": 60,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 min @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "14:03",
+      "end_time": "16:03",
+      "duration_seconds": 120,
+      "power_level": "7/10",
+      "cadence_rpm": 60,
+      "zone": "",
+      "description": "- 2 mins @ 7/10 (50-60 rpm)"
+    },
+    {
+      "start_time": "16:03",
+      "end_time": "17:03",
+      "duration_seconds": 60,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 min @ 3/10 (80 rpm)"
+    },
+    {
+      "start_time": "17:03",
+      "end_time": "19:03",
+      "duration_seconds": 120,
+      "power_level": "7/10",
+      "cadence_rpm": 105,
+      "zone": "",
+      "description": "- 2 mins @ 7/10 (105 rpm)"
+    },
+    {
+      "start_time": "19:03",
+      "end_time": "20:03",
+      "duration_seconds": 60,
+      "power_level": "3/10",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 1 min @ 3/10 (choose cadence)"
+    },
+    {
+      "start_time": "20:03",
+      "end_time": "22:03",
+      "duration_seconds": 120,
+      "power_level": "7/10",
+      "cadence_rpm": 60,
+      "zone": "",
+      "description": "- 2 mins @ 7/10 (60 rpm)"
+    },
+    {
+      "start_time": "22:03",
+      "end_time": "25:04",
+      "duration_seconds": 181,
+      "power_level": "3/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 3 mins @ 3/10 (80 rpm)"
+    }
+  ]
+}

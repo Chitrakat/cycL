@@ -1,0 +1,171 @@
+{
+  "video_id": "SmUrDhmBe78",
+  "title": "Full Effort VO2 Max Intervals | 30 Mins HIIT Bike Workout",
+  "url": "https://www.youtube.com/watch?v=SmUrDhmBe78",
+  "workout_type": "HIIT",
+  "duration_minutes": 30,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "duration_seconds": 60,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 2/10 (80 rpm)"
+    },
+    {
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "duration_seconds": 60,
+      "power_level": "4/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 4/10 (80 rpm)"
+    },
+    {
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 5/10 (80 rpm)"
+    },
+    {
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "duration_seconds": 60,
+      "power_level": "6/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 6/10 (80 rpm)"
+    },
+    {
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "duration_seconds": 60,
+      "power_level": "8/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 1 mins @ 8/10 (90 rpm)"
+    },
+    {
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "duration_seconds": 60,
+      "power_level": "1/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 1 mins @ 1/10 (80 rpm)"
+    },
+    {
+      "start_time": "06:00",
+      "end_time": "08:00",
+      "duration_seconds": 120,
+      "power_level": "10/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 10/10 (90 rpm)"
+    },
+    {
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (90 rpm)"
+    },
+    {
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "duration_seconds": 120,
+      "power_level": "10/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 10/10 (90 rpm)"
+    },
+    {
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (90 rpm)"
+    },
+    {
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "duration_seconds": 120,
+      "power_level": "10/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 10/10 (90 rpm)"
+    },
+    {
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (90 rpm)"
+    },
+    {
+      "start_time": "18:00",
+      "end_time": "20:00",
+      "duration_seconds": 120,
+      "power_level": "10/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 10/10 (90 rpm)"
+    },
+    {
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (90 rpm)"
+    },
+    {
+      "start_time": "22:00",
+      "end_time": "24:00",
+      "duration_seconds": 120,
+      "power_level": "10/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 10/10 (90 rpm)"
+    },
+    {
+      "start_time": "24:00",
+      "end_time": "26:00",
+      "duration_seconds": 120,
+      "power_level": "2/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (90 rpm)"
+    },
+    {
+      "start_time": "26:00",
+      "end_time": "28:00",
+      "duration_seconds": 120,
+      "power_level": "10/10",
+      "cadence_rpm": 90,
+      "zone": "",
+      "description": "- 2 mins @ 10/10 (90 rpm)"
+    },
+    {
+      "start_time": "28:00",
+      "end_time": "30:02",
+      "duration_seconds": 122,
+      "power_level": "2/10",
+      "cadence_rpm": 80,
+      "zone": "",
+      "description": "- 2 mins @ 2/10 (80 rpm)"
+    }
+  ]
+}

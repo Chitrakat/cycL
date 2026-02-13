@@ -1,0 +1,733 @@
+{
+  "video_id": "generated-20260213203224",
+  "title": "Generated Power 45min",
+  "url": "",
+  "workout_type": "Power",
+  "duration_minutes": 45,
+  "intervals": [
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 300,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "warmup",
+      "description": "warmup",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 60,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "main set",
+      "description": "main set",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 0,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "recovery",
+      "description": "recovery",
+      "power_watts": 125
+    },
+    {
+      "start_time": "",
+      "end_time": "",
+      "duration_seconds": 300,
+      "power_level": "5/10",
+      "cadence_rpm": 80,
+      "zone": "cooldown",
+      "description": "cooldown",
+      "power_watts": 125
+    }
+  ],
+  "validation": {
+    "ok": true,
+    "reasons": []
+  }
+}

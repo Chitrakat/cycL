@@ -1,0 +1,90 @@
+{
+  "video_id": "3ap81sm30P8",
+  "title": "Intense 30 Minute HIIT Session | Build Your VO2 Max",
+  "url": "https://www.youtube.com/watch?v=3ap81sm30P8",
+  "workout_type": "HIIT",
+  "duration_minutes": 30,
+  "intervals": [
+    {
+      "start_time": "00:00",
+      "end_time": "00:40",
+      "duration_seconds": 40,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Introduction & Setup"
+    },
+    {
+      "start_time": "00:40",
+      "end_time": "05:00",
+      "duration_seconds": 260,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- 5-Minute Warm-Up"
+    },
+    {
+      "start_time": "05:00",
+      "end_time": "13:30",
+      "duration_seconds": 510,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Block 1: First 7 Efforts (30s Hard / 1m Easy)"
+    },
+    {
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "duration_seconds": 60,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Block 1 Completion & Feedback"
+    },
+    {
+      "start_time": "14:30",
+      "end_time": "16:45",
+      "duration_seconds": 135,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "recovery",
+      "description": "- Mid-Session Recovery"
+    },
+    {
+      "start_time": "16:45",
+      "end_time": "26:15",
+      "duration_seconds": 570,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Block 2: Final 7 Efforts"
+    },
+    {
+      "start_time": "26:15",
+      "end_time": "27:45",
+      "duration_seconds": 90,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- The Final Max Effort"
+    },
+    {
+      "start_time": "27:45",
+      "end_time": "28:50",
+      "duration_seconds": 65,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "recovery",
+      "description": "- Warm Down & Recovery"
+    },
+    {
+      "start_time": "28:50",
+      "end_time": "30:04",
+      "duration_seconds": 74,
+      "power_level": "",
+      "cadence_rpm": 0,
+      "zone": "",
+      "description": "- Post-Workout Chat & Reflections"
+    }
+  ]
+}

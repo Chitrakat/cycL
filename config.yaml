@@ -1,0 +1,66 @@
+api:
+  key_env: YOUTUBE_API_KEY
+
+playlists:
+  - id: PL74NyGJVAdyGtwuKLLLzW8TI9L1Lp4t11
+    name: HIIT 20-40 min
+  - id: PL74NyGJVAdyEijsnDAFqrEYYvb6iCtrsK
+    name: Longer workouts
+
+output:
+  workouts_dir: workouts
+  logs_dir: logs
+  summary_csv: logs/summary.csv
+  review_log: logs/review.log
+  processing_log: logs/processing.log
+
+classification:
+  priority:
+    - HIIT
+    - VO2max
+    - Sweet Spot
+    - Threshold
+    - Zone 2
+    - Cadence
+    - Power
+  keywords:
+    HIIT:
+      - high intensity
+      - hiit
+      - intervals
+      - sprint
+    Zone 2:
+      - endurance
+      - base
+      - steady state
+      - zone 2
+    Sweet Spot:
+      - sweet spot
+      - tempo
+      - threshold
+    VO2max:
+      - vo2
+      - max effort
+      - anaerobic
+    Cadence:
+      - cadence
+      - high rpm
+      - leg speed
+    Power:
+      - power
+      - strength
+      - low cadence
+
+non_workout_keywords:
+  - announcement
+  - update
+  - news
+  - highlights
+  - tech tips
+
+parser:
+  zone_keywords:
+    warmup: warmup
+    main set: main set
+    recovery: recovery
+    cooldown: cooldown

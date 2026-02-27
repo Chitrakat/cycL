@@ -1,0 +1,1 @@
+"""Cycling Workout API application."""

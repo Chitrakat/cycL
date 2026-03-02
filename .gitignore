@@ -1,0 +1,25 @@
+# Environment variables - NEVER commit these
+.env
+.env.local
+.env.*.local
+**/.env
+
+# API Keys and secrets
+**/config.py
+secrets.json
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Backend specific
+backend/.env
+backend/secrets/
+
+# Data files (may contain sensitive info)
+data/raw/
+*.db
+*.sqlite

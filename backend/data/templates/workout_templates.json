@@ -1,0 +1,7 @@
+{
+  "metadata": {
+    "source_glob": "data\\processed\\*.json",
+    "template_version": 2
+  },
+  "templates": {}
+}

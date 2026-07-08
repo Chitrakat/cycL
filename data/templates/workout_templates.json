@@ -1,29 +1,30 @@
 {
   "metadata": {
     "source_glob": "data\\processed\\*.json",
-    "template_version": 2
+    "template_version": 3,
+    "needs_review_count": 521
   },
   "templates": {
     "Power": {
       "25": {
         "workout_type": "Power",
         "duration_minutes": 25,
-        "interval_count": 50,
+        "interval_count": 6,
         "work_duration_seconds": 60,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 90,
+        "work_rest_ratio": "60:90",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": "5/10",
+        "default_power_level": "6/10",
         "default_cadence_rpm": 80,
         "power_profile": [
           "3/10",
-          "3/10",
+          "2/10",
           "4/10",
           "6/10",
           "3/10",
           "7/10",
-          "5/10",
+          "6/10",
           "7/10",
           "6/10",
           "8/10",
@@ -31,46 +32,46 @@
           "5/10",
           "7/10",
           "7/10",
-          "5/10",
+          "6/10",
           "7/10",
-          "3/10",
+          "2/10",
           "10/10",
           "3/10",
           "7/10",
-          "5/10",
+          "",
           "3/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "3/10",
+          "main set": "7/10",
+          "recovery": "3/10",
+          "cooldown": "3/10"
         }
       },
       "30": {
         "workout_type": "Power",
         "duration_minutes": 30,
-        "interval_count": 45,
+        "interval_count": 6,
         "work_duration_seconds": 60,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "60:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": "5/10",
+        "default_power_level": "7/10",
         "default_cadence_rpm": 80,
         "power_profile": [
           "1/10",
           "3/10",
-          "3/10",
+          "2/10",
           "3/10",
           "5/10",
           "4/10",
-          "6/10",
+          "8/10",
           "4/10",
           "8/10",
           "2/10",
           "8/10",
-          "3/10",
+          "2/10",
           "8/10",
           "2/10",
           "7/10",
@@ -89,10 +90,10 @@
           "1/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "1/10",
+          "main set": "8/10",
+          "recovery": "2/10",
+          "cooldown": "1/10"
         }
       }
     },
@@ -100,13 +101,13 @@
       "25": {
         "workout_type": "HIIT",
         "duration_minutes": 25,
-        "interval_count": 59,
+        "interval_count": 10,
         "work_duration_seconds": 60,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "60:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": "6/10",
+        "default_power_level": "7/10",
         "default_cadence_rpm": 80,
         "power_profile": [
           "1/10",
@@ -114,9 +115,9 @@
           "4/10",
           "4/10",
           "6/10",
+          "8/10",
           "7/10",
-          "7/10",
-          "7/10",
+          "8/10",
           "3/10",
           "7/10",
           "5/10",
@@ -128,44 +129,44 @@
           "2/10",
           "8/10",
           "8/10",
-          "6/10",
+          "7/10",
           "4/10",
-          "5/10",
+          "",
           "2/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "1/10",
+          "main set": "7/10",
+          "recovery": "3/10",
+          "cooldown": "2/10"
         }
       },
       "30": {
         "workout_type": "HIIT",
         "duration_minutes": 30,
-        "interval_count": 197,
+        "interval_count": 8,
         "work_duration_seconds": 90,
-        "rest_duration_seconds": 100,
-        "work_rest_ratio": "90:100",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "90:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": "6/10",
+        "default_power_level": "7/10",
         "default_cadence_rpm": 80,
         "power_profile": [
           "2/10",
+          "3/10",
+          "6/10",
+          "7/10",
+          "7/10",
+          "3/10",
+          "7/10",
+          "7/10",
+          "7/10",
           "4/10",
-          "5/10",
-          "7/10",
-          "7/10",
-          "5/10",
-          "7/10",
-          "6/10",
-          "7/10",
-          "5/10",
           "8/10",
-          "5/10",
+          "4/10",
           "7/10",
-          "6/10",
+          "7/10",
           "8/10",
           "3/10",
           "9/10",
@@ -186,33 +187,33 @@
           "2/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "8/10",
+          "recovery": "2/10",
+          "cooldown": "2/10"
         }
       },
       "40": {
         "workout_type": "HIIT",
         "duration_minutes": 40,
-        "interval_count": 181,
+        "interval_count": 12,
         "work_duration_seconds": 60,
-        "rest_duration_seconds": 121,
-        "work_rest_ratio": "60:121",
+        "rest_duration_seconds": 60,
+        "work_rest_ratio": "60:60",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": "5/10",
+        "default_power_level": "4/10",
         "default_cadence_rpm": 90,
         "power_profile": [
           "2/10",
-          "4/10",
-          "6/10",
           "3/10",
-          "4/10",
           "7/10",
-          "4/10",
+          "3/10",
+          "2/10",
+          "7/10",
+          "3/10",
           "8/10",
-          "4/10",
+          "3/10",
           "9/10",
           "3/10",
           "8/10",
@@ -244,40 +245,40 @@
           "4/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "9/10",
+          "recovery": "3/10",
+          "cooldown": "2/10"
         }
       },
       "50": {
         "workout_type": "HIIT",
         "duration_minutes": 50,
-        "interval_count": 21,
+        "interval_count": 10,
         "work_duration_seconds": 120,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "120:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": "5/10",
+        "default_power_level": "7/10",
         "default_cadence_rpm": 0,
         "power_profile": [
           "2/10",
-          "4/10",
+          "",
           "2/10",
           "7/10",
           "2/10",
-          "5/10",
-          "7/10",
-          "8/10",
-          "10/10",
-          "2/10",
-          "5/10",
+          "",
           "7/10",
           "8/10",
           "10/10",
           "2/10",
-          "5/10",
+          "",
+          "7/10",
+          "8/10",
+          "10/10",
+          "2/10",
+          "",
           "7/10",
           "8/10",
           "10/10",
@@ -285,19 +286,19 @@
           "2/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "8/10",
+          "recovery": "2/10",
+          "cooldown": "2/10"
         }
       },
       "35": {
         "workout_type": "HIIT",
         "duration_minutes": 35,
-        "interval_count": 49,
+        "interval_count": 14,
         "work_duration_seconds": 90,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "90:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "7/10",
@@ -332,19 +333,19 @@
           "1/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "9/10",
+          "recovery": "3/10",
+          "cooldown": "2/10"
         }
       },
       "49": {
         "workout_type": "HIIT",
         "duration_minutes": 49,
-        "interval_count": 27,
+        "interval_count": 14,
         "work_duration_seconds": 120,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "120:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "6/10",
@@ -375,23 +376,23 @@
           "1/10",
           "10/10",
           "7/10",
-          "5/10",
+          "",
           "1/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "9/10",
+          "recovery": "2/10",
+          "cooldown": "1/10"
         }
       },
       "45": {
         "workout_type": "HIIT",
         "duration_minutes": 45,
-        "interval_count": 24,
-        "work_duration_seconds": 120,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "interval_count": 14,
+        "work_duration_seconds": 60,
+        "rest_duration_seconds": 153,
+        "work_rest_ratio": "60:153",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "6/10",
@@ -423,28 +424,28 @@
           "2/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "8/10",
+          "recovery": "3/10",
+          "cooldown": "2/10"
         }
       },
       "20": {
         "workout_type": "HIIT",
         "duration_minutes": 20,
-        "interval_count": 43,
+        "interval_count": 14,
         "work_duration_seconds": 60,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 60,
+        "work_rest_ratio": "60:60",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "6/10",
         "default_cadence_rpm": 90,
         "power_profile": [
           "2/10",
-          "4/10",
+          "3/10",
           "5/10",
-          "5/10",
+          "6/10",
           "5/10",
           "4/10",
           "7/10",
@@ -466,19 +467,19 @@
           "3/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "8/10",
+          "recovery": "2/10",
+          "cooldown": "2/10"
         }
       },
       "32": {
         "workout_type": "HIIT",
         "duration_minutes": 32,
-        "interval_count": 26,
-        "work_duration_seconds": 60,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "interval_count": 14,
+        "work_duration_seconds": 105,
+        "rest_duration_seconds": 60,
+        "work_rest_ratio": "105:60",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "7/10",
@@ -487,7 +488,7 @@
           "",
           "1/10",
           "3/10",
-          "5/10",
+          "",
           "3/10",
           "6/10",
           "3/10",
@@ -513,18 +514,18 @@
         ],
         "power_by_zone": {
           "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "main set": "7/10",
+          "recovery": "3/10",
+          "cooldown": "3/10"
         }
       },
       "26": {
         "workout_type": "HIIT",
         "duration_minutes": 26,
-        "interval_count": 20,
+        "interval_count": 12,
         "work_duration_seconds": 60,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "60:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "7/10",
@@ -535,9 +536,9 @@
           "7/10",
           "8/10",
           "2/10",
-          "5/10",
+          "",
           "7/10",
-          "5/10",
+          "",
           "7/10",
           "1/10",
           "9/10",
@@ -552,34 +553,34 @@
           "1/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "3/10",
+          "main set": "7/10",
+          "recovery": "1/10",
+          "cooldown": "1/10"
         }
       },
       "29": {
         "workout_type": "HIIT",
         "duration_minutes": 29,
-        "interval_count": 18,
+        "interval_count": 7,
         "work_duration_seconds": 60,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 60,
+        "work_rest_ratio": "60:60",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": "4/10",
+        "default_power_level": "3/10",
         "default_cadence_rpm": 80,
         "power_profile": [
           "2/10",
           "3/10",
-          "4/10",
+          "",
           "2/10",
-          "5/10",
+          "",
           "7/10",
           "9/10",
           "2/10",
           "7/10",
-          "5/10",
+          "",
           "9/10",
           "1/10",
           "9/10",
@@ -590,10 +591,10 @@
           "2/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "9/10",
+          "recovery": "2/10",
+          "cooldown": "2/10"
         }
       }
     },
@@ -601,18 +602,18 @@
       "25": {
         "workout_type": "Cadence",
         "duration_minutes": 25,
-        "interval_count": 59,
+        "interval_count": 12,
         "work_duration_seconds": 30,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "30:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "6/10",
-        "default_cadence_rpm": 80,
+        "default_cadence_rpm": 82,
         "power_profile": [
           "2/10",
           "3/10",
-          "5/10",
+          "6/10",
           "3/10",
           "6/10",
           "6/10",
@@ -650,10 +651,10 @@
           "2/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "6/10",
+          "recovery": "2/10",
+          "cooldown": "2/10"
         }
       }
     },
@@ -661,10 +662,10 @@
       "30": {
         "workout_type": "Sweet Spot",
         "duration_minutes": 30,
-        "interval_count": 17,
+        "interval_count": 4,
         "work_duration_seconds": 120,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 60,
+        "work_rest_ratio": "120:60",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "6/10",
@@ -689,10 +690,10 @@
           "2/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "6/10",
+          "recovery": "2/10",
+          "cooldown": "2/10"
         }
       }
     },
@@ -700,10 +701,10 @@
       "33": {
         "workout_type": "VO2max",
         "duration_minutes": 33,
-        "interval_count": 20,
+        "interval_count": 8,
         "work_duration_seconds": 120,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "120:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "7/10",
@@ -732,21 +733,21 @@
         ],
         "power_by_zone": {
           "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "main set": "7/10",
+          "recovery": "3/10",
+          "cooldown": "3/10"
         }
       },
       "30": {
         "workout_type": "VO2max",
         "duration_minutes": 30,
-        "interval_count": 20,
-        "work_duration_seconds": 106,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "interval_count": 8,
+        "work_duration_seconds": 120,
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "120:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": "5/10",
+        "default_power_level": "6/10",
         "default_cadence_rpm": 80,
         "power_profile": [
           "3/10",
@@ -756,11 +757,11 @@
           "6/10",
           "8/10",
           "3/10",
-          "5/10",
+          "",
           "7/10",
-          "5/10",
+          "",
           "8/10",
-          "5/10",
+          "",
           "9/10",
           "2/10",
           "9/10",
@@ -771,10 +772,10 @@
           "1/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "3/10",
+          "main set": "8/10",
+          "recovery": "2/10",
+          "cooldown": "1/10"
         }
       }
     },
@@ -782,10 +783,10 @@
       "35": {
         "workout_type": "Zone 2",
         "duration_minutes": 35,
-        "interval_count": 10,
-        "work_duration_seconds": 120,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "interval_count": 1,
+        "work_duration_seconds": 590,
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "590:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "3/10",
@@ -804,18 +805,18 @@
         ],
         "power_by_zone": {
           "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "main set": "8/10",
+          "recovery": "2/10",
+          "cooldown": "2/10"
         }
       },
       "30": {
         "workout_type": "Zone 2",
         "duration_minutes": 30,
-        "interval_count": 13,
-        "work_duration_seconds": 120,
-        "rest_duration_seconds": 0,
-        "work_rest_ratio": "",
+        "interval_count": 1,
+        "work_duration_seconds": 240,
+        "rest_duration_seconds": 120,
+        "work_rest_ratio": "240:120",
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
         "default_power_level": "4/10",
@@ -836,10 +837,10 @@
           "2/10"
         ],
         "power_by_zone": {
-          "warmup": "",
-          "main set": "",
-          "recovery": "",
-          "cooldown": ""
+          "warmup": "2/10",
+          "main set": "6/10",
+          "recovery": "4/10",
+          "cooldown": "2/10"
         }
       }
     }

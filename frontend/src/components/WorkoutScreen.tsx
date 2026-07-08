@@ -77,18 +77,26 @@ export function WorkoutScreen({ session, elapsedSeconds, paused, onSkipZone, onT
     };
   }, [elapsedSeconds, session]);
 
+  const workoutComplete = stats.workoutRemaining === 0;
+
   const zoneColor = zoneColorFromLevel(stats.zone);
   const theme = themeByZoneColor(zoneColor);
 
   return (
     <div className="rounded-2xl bg-black p-4 lg:p-6">
+      {workoutComplete ? (
+        <div className="mb-4 rounded-2xl border border-cy-orange/30 bg-cy-orange/10 px-4 py-3 text-center text-lg font-medium text-cy-orange">
+          Workout complete. Nice work.
+        </div>
+      ) : null}
+
       <div className="grid grid-cols-1 gap-5 lg:grid-cols-[minmax(280px,340px)_minmax(0,1fr)] lg:items-start">
         <div>
           <div className={`mx-auto w-[230px] rounded-xl border border-white/10 bg-black py-2 text-center text-sm tracking-[0.2em] text-cy-muted ${theme.glowClass}`}>
             NEXT ZONE: {stats.nextZone}
           </div>
 
-          <WorkoutOrb zone={stats.zone} zoneColor={zoneColor} rpm={stats.rpm} />
+          <WorkoutOrb zone={stats.zone} zoneColor={zoneColor} rpm={stats.rpm} paused={paused} />
         </div>
 
         <div className="space-y-4">
@@ -106,7 +114,8 @@ export function WorkoutScreen({ session, elapsedSeconds, paused, onSkipZone, onT
             <button
               type="button"
               onClick={() => onSkipZone(stats.zoneRemaining)}
-              className="flex items-center gap-2 rounded-full bg-cy-orange px-5 py-4 text-black transition hover:brightness-110"
+              disabled={workoutComplete}
+              className="flex items-center gap-2 rounded-full bg-cy-orange px-5 py-4 text-black transition hover:brightness-110 disabled:cursor-not-allowed disabled:opacity-50"
               aria-label="Skip current zone"
             >
               <SkipForward className="h-6 w-6" />

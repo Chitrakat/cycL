@@ -6,9 +6,10 @@ interface WorkoutOrbProps {
   zone: number;
   zoneColor: ZoneColor;
   rpm: number;
+  paused: boolean;
 }
 
-export function WorkoutOrb({ zone, zoneColor, rpm }: WorkoutOrbProps) {
+export function WorkoutOrb({ zone, zoneColor, rpm, paused }: WorkoutOrbProps) {
   const theme = themeByZoneColor(zoneColor);
 
   const dashOffset = useMemo(() => {
@@ -39,7 +40,7 @@ export function WorkoutOrb({ zone, zoneColor, rpm }: WorkoutOrbProps) {
 
       <div
         className="absolute inset-0"
-        style={{ animation: `spin ${animDuration}s linear infinite` }}
+        style={{ animation: `spin ${animDuration}s linear infinite`, animationPlayState: paused ? "paused" : "running" }}
       >
         <span
           className="absolute left-1/2 top-[18px] block h-5 w-[6px] -translate-x-1/2 rounded-full bg-white"

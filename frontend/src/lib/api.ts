@@ -10,6 +10,17 @@ interface DurationsResponse {
   durations: number[];
 }
 
+interface TemplatesResponse {
+  templates: TemplateOption[];
+}
+
+interface TemplateOption {
+  id: number;
+  workout_type: string;
+  duration_minutes: number;
+  name: string;
+}
+
 interface GeneratePayload {
   template_id: number;
   ftp: number;
@@ -110,11 +121,17 @@ function normalizeSegments(input: unknown): WorkoutSegment[] {
             ? Math.max(1, Math.round(segment.duration))
             : 8;
 
+      const intensityLevel =
+        typeof segment.intensity_level === "number"
+          ? segment.intensity_level
+          : undefined;
       const powerLevel = segment.power_level;
-      const zone = parseZone(powerLevel);
+      const zone = parseZone(intensityLevel ?? powerLevel);
       const rpm =
-        typeof segment.cadence === "number"
-          ? Math.max(40, Math.round(segment.cadence))
+        typeof segment.cadence_rpm === "number"
+          ? Math.max(40, Math.round(segment.cadence_rpm))
+          : typeof segment.cadence === "number"
+            ? Math.max(40, Math.round(segment.cadence))
           : 62 + zone * 4;
 
       return {
@@ -128,7 +145,7 @@ function normalizeSegments(input: unknown): WorkoutSegment[] {
 
 function parseZone(power: unknown): number {
   if (typeof power === "number") {
-    const n = Math.round(power * 10);
+    const n = power > 1 ? Math.round(power) : Math.round(power * 10);
     return Math.min(10, Math.max(1, n));
   }
 
@@ -150,19 +167,21 @@ function parseZone(power: unknown): number {
 }
 
 async function findTemplateId(workoutType: string, durationMinutes: number): Promise<number> {
-  // Temporary strategy: use known working HIIT 30 template if not found.
-  // The current backend does not expose a template list endpoint yet.
-  if (workoutType === "HIIT" && durationMinutes === 30) {
-    return 4;
+  const qType = encodeURIComponent(workoutType);
+  const res = await fetch(
+    `${API_BASE}/templates?workout_type=${qType}&duration_minutes=${durationMinutes}&limit=10`,
+  );
+  if (!res.ok) {
+    throw new Error("Failed to lookup templates");
   }
 
-  // Fallback to known IDs based on seeded order.
-  if (workoutType === "Power") return durationMinutes <= 25 ? 1 : 2;
-  if (workoutType === "HIIT") return 4;
-  if (workoutType === "Cadence") return 14;
-  if (workoutType === "Sweet Spot") return 15;
-  if (workoutType === "VO2max") return 16;
-  if (workoutType === "Zone 2") return 18;
+  const json = (await res.json()) as TemplatesResponse;
+  const exact = json.templates.find(
+    (item) =>
+      item.workout_type === workoutType && item.duration_minutes === durationMinutes,
+  );
+  if (exact) return exact.id;
+  if (json.templates.length > 0) return json.templates[0].id;
 
-  return 4;
+  throw new Error(`No template available for ${workoutType} ${durationMinutes}m`);
 }

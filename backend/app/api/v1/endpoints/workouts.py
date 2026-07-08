@@ -9,7 +9,6 @@ from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy.orm import Session
 
 from app.db.database import get_db
-from app.db.models import WorkoutTemplate
 from app.db.schemas import (
     GeneratedWorkoutCreate,
     GeneratedWorkoutResponse,
@@ -50,17 +49,9 @@ async def generate_workout(
     try:
         service = WorkoutService(db)
 
-        # Fetch template to get workout_type and duration
-        template = db.query(WorkoutTemplate).filter_by(id=request.template_id).first()
-
-        if not template:
-            logger.warning(f"Template not found: {request.template_id}")
-            raise HTTPException(status_code=404, detail="Template not found")
-
         # Generate workout
         result = service.generate_workout(
-            workout_type=template.workout_type,
-            duration_minutes=template.duration_minutes,
+            template_id=request.template_id,
             user_ftp=request.ftp,
             fitness_level=request.fitness_level,
             user_id=request.user_id,
@@ -78,6 +69,55 @@ async def generate_workout(
         raise HTTPException(
             status_code=500, detail="Failed to generate workout"
         )
+
+
+@router.get("/templates", status_code=200)
+async def list_templates(
+    workout_type: str | None = Query(None, description="Optional workout type filter"),
+    duration_minutes: int | None = Query(None, description="Optional duration filter"),
+    limit: int = Query(100, ge=1, le=500, description="Max templates to return"),
+    db: Session = Depends(get_db),
+) -> dict[str, list[dict[str, Any]]]:
+    """List available templates for frontend selection."""
+    logger.info(
+        f"GET /templates - workout_type={workout_type} duration_minutes={duration_minutes}"
+    )
+
+    try:
+        service = WorkoutService(db)
+        templates = service.get_templates(
+            workout_type=workout_type,
+            duration_minutes=duration_minutes,
+            limit=limit,
+        )
+        return {"templates": templates}
+    except Exception as e:
+        logger.error(f"Failed to list templates: {str(e)}", exc_info=True)
+        raise HTTPException(status_code=500, detail="Failed to fetch templates")
+
+
+@router.get("/templates/report", status_code=200)
+async def template_quality_report(
+    workout_type: str | None = Query(None, description="Optional workout type filter"),
+    limit: int = Query(200, ge=1, le=1000, description="Max templates to evaluate"),
+    include_templates: bool = Query(True, description="Include per-template detail"),
+    db: Session = Depends(get_db),
+) -> dict[str, Any]:
+    """Return template quality report for scaling and duration-fit checks."""
+    logger.info(
+        f"GET /templates/report - workout_type={workout_type} limit={limit}"
+    )
+
+    try:
+        service = WorkoutService(db)
+        return service.get_template_quality_report(
+            workout_type=workout_type,
+            limit=limit,
+            include_templates=include_templates,
+        )
+    except Exception as e:
+        logger.error(f"Failed to build template report: {str(e)}", exc_info=True)
+        raise HTTPException(status_code=500, detail="Failed to build template report")
 
 
 @router.get("/types", status_code=200)

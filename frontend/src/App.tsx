@@ -89,12 +89,13 @@ function App() {
 
   useEffect(() => {
     if (screen !== "workout" || paused || !session) return;
+    if (elapsed >= session.durationMinutes * 60) return;
     const timer = window.setInterval(() => {
       setElapsed((s) => s + 1);
     }, 1000);
 
     return () => window.clearInterval(timer);
-  }, [screen, paused, session]);
+  }, [screen, paused, session, elapsed]);
 
   const handleSkipZone = (secondsToSkip: number) => {
     if (!session || secondsToSkip <= 0) return;

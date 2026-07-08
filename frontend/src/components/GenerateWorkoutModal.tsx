@@ -108,8 +108,8 @@ export function GenerateWorkoutModal({
                   key={d.key}
                   type="button"
                   onClick={() => onStateChange({ ...state, difficulty: d.key })}
-                  className={`flex-1 rounded-full px-3 py-8 text-lg transition ${selected ? "shadow-2xl" : "opacity-70"}`}
-                  style={{ backgroundColor: d.color, color: "#101010" }}
+                  className={`flex-1 rounded-full px-3 py-8 text-lg transition ${selected ? "shadow-2xl" : "bg-[#3a3d44] text-cy-muted opacity-90"}`}
+                  style={selected ? { backgroundColor: d.color, color: "#101010" } : undefined}
                 >
                   {d.label}
                 </button>

@@ -99,6 +99,7 @@ class GeneratedWorkoutCreate(BaseModel):
     """Request schema for generating a personalized workout."""
 
     template_id: int = Field(..., gt=0)
+    duration_minutes: int = Field(..., description="Requested duration in minutes")
     ftp: int = Field(..., gt=0, le=500)  # User's FTP in watts
     fitness_level: str = Field("intermediate", pattern="^(beginner|intermediate|advanced)$")
     scaling_type: str | None = None
@@ -110,6 +111,15 @@ class GeneratedWorkoutCreate(BaseModel):
         """Validate FTP value."""
         if not (50 <= v <= 500):
             raise ValueError("FTP must be between 50 and 500 watts")
+        return v
+
+    @field_validator("duration_minutes")
+    @classmethod
+    def validate_duration_minutes(cls, v: int) -> int:
+        """Allow only standardized workout durations."""
+        allowed = {20, 30, 40, 60}
+        if v not in allowed:
+            raise ValueError("Duration must be one of: 20, 30, 40, 60 minutes")
         return v
 
 

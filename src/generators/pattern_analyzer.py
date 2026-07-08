@@ -10,7 +10,8 @@ from typing import Any
 DEFAULT_TEMPLATES_PATH = os.path.join("data", "templates", "workout_templates.json")
 DEFAULT_PROCESSED_GLOB = os.path.join("data", "processed", "*.json")
 DEFAULT_REVIEW_PATH = os.path.join("data", "templates", "needs_review.json")
-TEMPLATE_VERSION = 3
+TEMPLATE_VERSION = 4
+STANDARD_DURATIONS = [20, 30, 40, 60]
 
 INTERVAL_COUNT_BOUNDS: dict[str, tuple[int, int]] = {
     "HIIT": (6, 14),
@@ -53,7 +54,8 @@ def analyze_patterns(
         duration = int(record.get("duration_minutes", 0))
         intervals = record.get("intervals", [])
         if duration and intervals:
-            grouped[workout_type][duration].append(record)
+            target_duration = _nearest_standard_duration(duration)
+            grouped[workout_type][target_duration].append(record)
 
     templates: dict[str, dict[str, Any]] = {}
     for workout_type, durations in grouped.items():
@@ -113,7 +115,7 @@ def _build_template(
         "work_rest_ratio": _ratio(work_duration, rest_duration),
         "warmup_minutes": 5,
         "cooldown_minutes": 5,
-        "default_power_level": _median_power(records, review_entries),
+        "default_power_level": _median_power_mainset(records, review_entries),
         "default_cadence_rpm": _median_cadence(records, review_entries),
         "power_profile": power_profile,
         "power_by_zone": power_by_zone,
@@ -147,7 +149,7 @@ def _ratio(work_seconds: int, rest_seconds: int) -> str:
     return f"{work_seconds}:{rest_seconds}"
 
 
-def _median_power(
+def _median_power_mainset(
     records: list[dict[str, Any]], review_entries: list[dict[str, Any]]
 ) -> str:
     values: list[int] = []
@@ -155,7 +157,7 @@ def _median_power(
         intervals = record.get("intervals", [])
         for idx, interval in enumerate(intervals):
             zone = _resolve_interval_zone(intervals, idx, review_entries, record)
-            if not zone:
+            if zone != "main set":
                 continue
             power = interval.get("power_level", "")
             if power and "/" in power:
@@ -215,10 +217,18 @@ def _power_by_zone(
             if power is not None:
                 buckets[zone_key].append(power)
 
-    return {
+    result = {
         zone: f"{int(median(values))}/10" if values else ""
         for zone, values in buckets.items()
     }
+
+    # Keep warmup independent of workout intensity tiers.
+    result["warmup"] = "3/10"
+    if not result.get("cooldown"):
+        result["cooldown"] = "2/10"
+    if not result.get("recovery"):
+        result["recovery"] = "2/10"
+    return result
 
 
 def _parse_power(value: str) -> int | None:
@@ -347,3 +357,7 @@ def _save_review_entries(entries: list[dict[str, Any]]) -> None:
     os.makedirs(os.path.dirname(DEFAULT_REVIEW_PATH), exist_ok=True)
     with open(DEFAULT_REVIEW_PATH, "w", encoding="utf-8") as handle:
         json.dump(entries, handle, indent=2)
+
+
+def _nearest_standard_duration(duration: int) -> int:
+    return min(STANDARD_DURATIONS, key=lambda value: abs(value - duration))

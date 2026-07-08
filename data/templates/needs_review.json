@@ -582,100 +582,16 @@
     "power_level": ""
   },
   {
-    "video_id": "Xjr4VrBO-zs",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 5,
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 1,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
   {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 7,
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 3,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 10,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 14,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 19,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 21,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "C9TBzwhwyPg",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "Xjr4VrBO-zs",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 7,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 10,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 14,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 19,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "39JMWTouY5I",
-    "interval_index": 21,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "C9TBzwhwyPg",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
   },
   {
     "video_id": "Xjr4VrBO-zs",
@@ -726,6 +642,18 @@
     "power_level": ""
   },
   {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "Xjr4VrBO-zs",
     "interval_index": 0,
     "reason": "unable to infer interval zone",
@@ -774,6 +702,18 @@
     "power_level": ""
   },
   {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "Xjr4VrBO-zs",
     "interval_index": 0,
     "reason": "unable to infer interval zone",
@@ -822,6 +762,138 @@
     "power_level": ""
   },
   {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "Xjr4VrBO-zs",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 7,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 10,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 14,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 19,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 21,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "C9TBzwhwyPg",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "Xjr4VrBO-zs",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 7,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 10,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 14,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 19,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "39JMWTouY5I",
+    "interval_index": 21,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "C9TBzwhwyPg",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "TO1h5fbOLAA",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "Xjr4VrBO-zs",
     "interval_index": 0,
     "reason": "unable to infer interval zone",
@@ -900,6 +972,18 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "SmUrDhmBe78",
     "interval_index": 1,
     "reason": "unable to infer interval zone",
@@ -908,6 +992,18 @@
   {
     "video_id": "SmUrDhmBe78",
     "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 7,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -944,6 +1040,24 @@
   {
     "video_id": "V1ueaUFuTMg",
     "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 9,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1056,6 +1170,18 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "SmUrDhmBe78",
     "interval_index": 1,
     "reason": "unable to infer interval zone",
@@ -1064,6 +1190,18 @@
   {
     "video_id": "SmUrDhmBe78",
     "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 7,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1100,6 +1238,24 @@
   {
     "video_id": "V1ueaUFuTMg",
     "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 9,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1212,6 +1368,18 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "SmUrDhmBe78",
     "interval_index": 1,
     "reason": "unable to infer interval zone",
@@ -1220,6 +1388,18 @@
   {
     "video_id": "SmUrDhmBe78",
     "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 7,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1256,6 +1436,24 @@
   {
     "video_id": "V1ueaUFuTMg",
     "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 9,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1368,6 +1566,18 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "SmUrDhmBe78",
     "interval_index": 1,
     "reason": "unable to infer interval zone",
@@ -1376,6 +1586,18 @@
   {
     "video_id": "SmUrDhmBe78",
     "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 7,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1412,6 +1634,24 @@
   {
     "video_id": "V1ueaUFuTMg",
     "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 9,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1524,6 +1764,18 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "SmUrDhmBe78",
     "interval_index": 1,
     "reason": "unable to infer interval zone",
@@ -1532,6 +1784,18 @@
   {
     "video_id": "SmUrDhmBe78",
     "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 7,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1568,6 +1832,24 @@
   {
     "video_id": "V1ueaUFuTMg",
     "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 9,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1680,6 +1962,18 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "pH4ISSkJ4bw",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "SmUrDhmBe78",
     "interval_index": 1,
     "reason": "unable to infer interval zone",
@@ -1688,6 +1982,18 @@
   {
     "video_id": "SmUrDhmBe78",
     "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "udQfbLzLAYE",
+    "interval_index": 7,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1724,6 +2030,24 @@
   {
     "video_id": "V1ueaUFuTMg",
     "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "W60jdR6ylRc",
+    "interval_index": 9,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1782,6 +2106,30 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 10,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 15,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "7EK-lsQCSWk",
     "interval_index": 2,
     "reason": "unable to infer interval zone",
@@ -1808,6 +2156,12 @@
   {
     "video_id": "belCpDbmBF0",
     "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "c-WAYVYmwc4",
+    "interval_index": 25,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1890,6 +2244,30 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 10,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 15,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "7EK-lsQCSWk",
     "interval_index": 2,
     "reason": "unable to infer interval zone",
@@ -1916,6 +2294,12 @@
   {
     "video_id": "belCpDbmBF0",
     "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "c-WAYVYmwc4",
+    "interval_index": 25,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -1998,6 +2382,30 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 10,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 15,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "7EK-lsQCSWk",
     "interval_index": 2,
     "reason": "unable to infer interval zone",
@@ -2024,6 +2432,12 @@
   {
     "video_id": "belCpDbmBF0",
     "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "c-WAYVYmwc4",
+    "interval_index": 25,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -2106,110 +2520,26 @@
     "power_level": "5/10"
   },
   {
-    "video_id": "7EK-lsQCSWk",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "7EK-lsQCSWk",
-    "interval_index": 5,
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 1,
     "reason": "unable to infer interval zone",
     "power_level": "4/10"
   },
   {
-    "video_id": "7EK-lsQCSWk",
-    "interval_index": 6,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "belCpDbmBF0",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "belCpDbmBF0",
-    "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "Tcw22Yph2u0",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "Tcw22Yph2u0",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "Tcw22Yph2u0",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "Tcw22Yph2u0",
-    "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "Tcw22Yph2u0",
+    "video_id": "74DmqDy7vvE",
     "interval_index": 5,
     "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "vNcY0mcq4PU",
-    "interval_index": 6,
-    "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
   {
-    "video_id": "vNcY0mcq4PU",
-    "interval_index": 8,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "vNcY0mcq4PU",
+    "video_id": "74DmqDy7vvE",
     "interval_index": 10,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
   {
-    "video_id": "XAPUZHksyaw",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "XAPUZHksyaw",
-    "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "4u1G51P756U",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "4u1G51P756U",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "4u1G51P756U",
-    "interval_index": 31,
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 15,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -2240,6 +2570,12 @@
   {
     "video_id": "belCpDbmBF0",
     "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "c-WAYVYmwc4",
+    "interval_index": 25,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -2322,6 +2658,30 @@
     "power_level": "5/10"
   },
   {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 10,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "74DmqDy7vvE",
+    "interval_index": 15,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
     "video_id": "7EK-lsQCSWk",
     "interval_index": 2,
     "reason": "unable to infer interval zone",
@@ -2348,6 +2708,12 @@
   {
     "video_id": "belCpDbmBF0",
     "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "c-WAYVYmwc4",
+    "interval_index": 25,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -2412,50 +2778,20 @@
     "power_level": "5/10"
   },
   {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 1,
+    "video_id": "4u1G51P756U",
+    "interval_index": 2,
     "reason": "unable to infer interval zone",
     "power_level": "4/10"
   },
   {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 5,
+    "video_id": "4u1G51P756U",
+    "interval_index": 3,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
   {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 10,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 15,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 10,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 15,
+    "video_id": "4u1G51P756U",
+    "interval_index": 31,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -2484,434 +2820,98 @@
     "power_level": "5/10"
   },
   {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 5,
+    "video_id": "7EK-lsQCSWk",
+    "interval_index": 2,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
   {
-    "video_id": "74DmqDy7vvE",
+    "video_id": "7EK-lsQCSWk",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": "4/10"
+  },
+  {
+    "video_id": "7EK-lsQCSWk",
+    "interval_index": 6,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "belCpDbmBF0",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "belCpDbmBF0",
+    "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "c-WAYVYmwc4",
+    "interval_index": 25,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "Tcw22Yph2u0",
+    "interval_index": 1,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "Tcw22Yph2u0",
+    "interval_index": 2,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "Tcw22Yph2u0",
+    "interval_index": 3,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "Tcw22Yph2u0",
+    "interval_index": 4,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "Tcw22Yph2u0",
+    "interval_index": 5,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "vNcY0mcq4PU",
+    "interval_index": 6,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "vNcY0mcq4PU",
+    "interval_index": 8,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "vNcY0mcq4PU",
     "interval_index": 10,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
   {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 15,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 10,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 15,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 10,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "74DmqDy7vvE",
-    "interval_index": 15,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "c-WAYVYmwc4",
-    "interval_index": 25,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "c-WAYVYmwc4",
-    "interval_index": 25,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "c-WAYVYmwc4",
-    "interval_index": 25,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "c-WAYVYmwc4",
-    "interval_index": 25,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "c-WAYVYmwc4",
-    "interval_index": 25,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "c-WAYVYmwc4",
-    "interval_index": 25,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
+    "video_id": "XAPUZHksyaw",
     "interval_index": 1,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
   {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 1,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "TO1h5fbOLAA",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "pH4ISSkJ4bw",
-    "interval_index": 3,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 7,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 7,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 7,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 7,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 7,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 5,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "udQfbLzLAYE",
-    "interval_index": 7,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
+    "video_id": "XAPUZHksyaw",
     "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 9,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 9,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 9,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 9,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 9,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 2,
-    "reason": "unable to infer interval zone",
-    "power_level": "4/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 4,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "W60jdR6ylRc",
-    "interval_index": 9,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
   },
@@ -2950,36 +2950,6 @@
     "interval_index": 2,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
-  },
-  {
-    "video_id": "ksmjvCOSYnI",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "ksmjvCOSYnI",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "ksmjvCOSYnI",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "ksmjvCOSYnI",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
-  },
-  {
-    "video_id": "ksmjvCOSYnI",
-    "interval_index": 0,
-    "reason": "unable to infer interval zone",
-    "power_level": ""
   },
   {
     "video_id": "ksmjvCOSYnI",
@@ -3006,22 +2976,10 @@
     "power_level": "5/10"
   },
   {
-    "video_id": "wPOcEj5x59w",
-    "interval_index": 7,
+    "video_id": "ksmjvCOSYnI",
+    "interval_index": 0,
     "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "wPOcEj5x59w",
-    "interval_index": 9,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "wPOcEj5x59w",
-    "interval_index": 11,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
+    "power_level": ""
   },
   {
     "video_id": "wPOcEj5x59w",
@@ -3042,22 +3000,10 @@
     "power_level": "5/10"
   },
   {
-    "video_id": "wPOcEj5x59w",
-    "interval_index": 7,
+    "video_id": "ksmjvCOSYnI",
+    "interval_index": 0,
     "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "wPOcEj5x59w",
-    "interval_index": 9,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
-  },
-  {
-    "video_id": "wPOcEj5x59w",
-    "interval_index": 11,
-    "reason": "unable to infer interval zone",
-    "power_level": "5/10"
+    "power_level": ""
   },
   {
     "video_id": "wPOcEj5x59w",
@@ -3076,6 +3022,60 @@
     "interval_index": 11,
     "reason": "unable to infer interval zone",
     "power_level": "5/10"
+  },
+  {
+    "video_id": "ksmjvCOSYnI",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "wPOcEj5x59w",
+    "interval_index": 7,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "wPOcEj5x59w",
+    "interval_index": 9,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "wPOcEj5x59w",
+    "interval_index": 11,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "ksmjvCOSYnI",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
+  },
+  {
+    "video_id": "wPOcEj5x59w",
+    "interval_index": 7,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "wPOcEj5x59w",
+    "interval_index": 9,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "wPOcEj5x59w",
+    "interval_index": 11,
+    "reason": "unable to infer interval zone",
+    "power_level": "5/10"
+  },
+  {
+    "video_id": "ksmjvCOSYnI",
+    "interval_index": 0,
+    "reason": "unable to infer interval zone",
+    "power_level": ""
   },
   {
     "video_id": "wPOcEj5x59w",

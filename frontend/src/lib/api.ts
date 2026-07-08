@@ -23,6 +23,7 @@ interface TemplateOption {
 
 interface GeneratePayload {
   template_id: number;
+  duration_minutes: number;
   ftp: number;
   fitness_level: "beginner" | "intermediate" | "advanced";
 }
@@ -30,12 +31,12 @@ interface GeneratePayload {
 const fallbackTypes = ["HIIT", "Zone 2", "Power", "VO2max", "Sweet Spot", "Cadence"];
 
 const fallbackDurations: Record<string, number[]> = {
-  HIIT: [20, 25, 30, 35, 40, 45],
-  "Zone 2": [30, 35, 45],
-  Power: [25, 30],
-  VO2max: [30, 33],
-  "Sweet Spot": [30],
-  Cadence: [25],
+  HIIT: [20, 30, 40, 60],
+  "Zone 2": [20, 30, 40, 60],
+  Power: [20, 30, 40, 60],
+  VO2max: [20, 30, 40, 60],
+  "Sweet Spot": [20, 30, 40, 60],
+  Cadence: [20, 30, 40, 60],
 };
 
 export async function fetchWorkoutTypes(): Promise<string[]> {
@@ -72,6 +73,7 @@ export async function generateWorkoutFromBackend(
   const templateId = await findTemplateId(workoutType, durationMinutes);
   const payload: GeneratePayload = {
     template_id: templateId,
+    duration_minutes: durationMinutes,
     ftp,
     fitness_level: fit,
   };

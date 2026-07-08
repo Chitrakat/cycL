@@ -33,6 +33,8 @@ INTERVAL_COUNT_BOUNDS: dict[str, tuple[int, int]] = {
     "Cadence": (6, 12),
 }
 
+STANDARD_DURATIONS = [20, 30, 40, 60]
+
 REQUIRED_SCALING_FIELDS = {
     "interval_count",
     "work_duration_seconds",
@@ -114,11 +116,19 @@ class WorkoutService:
             )
             raise ValueError("No matching template found")
 
+        if duration_minutes is not None and template.duration_minutes != duration_minutes:
+            logger.warning(
+                "Requested duration %sm differs from template %s duration %sm. Using closest template fallback.",
+                duration_minutes,
+                template.id,
+                template.duration_minutes,
+            )
+
         logger.debug(f"Found template: {template.name} (ID: {template.id})")
 
         try:
             resolved_workout_type = template.workout_type
-            resolved_duration = template.duration_minutes
+            resolved_duration = duration_minutes or template.duration_minutes
             generator_template = self._to_generator_template(template)
 
             # Generate workout using the selected DB template directly.
@@ -213,6 +223,24 @@ class WorkoutService:
             WorkoutTemplate.duration_minutes.asc(),
             WorkoutTemplate.id.asc(),
         ).limit(limit).all()
+
+        if duration_minutes is not None and not templates and workout_type:
+            candidates = self.db.query(WorkoutTemplate).filter(
+                WorkoutTemplate.workout_type == workout_type
+            ).all()
+            if candidates:
+                closest = min(
+                    candidates,
+                    key=lambda value: abs(value.duration_minutes - duration_minutes),
+                )
+                logger.warning(
+                    "No exact template for %s %sm; using closest available %sm (id=%s)",
+                    workout_type,
+                    duration_minutes,
+                    closest.duration_minutes,
+                    closest.id,
+                )
+                templates = [closest]
 
         return [
             {
@@ -393,15 +421,21 @@ class WorkoutService:
             logger.warning(f"Workout type not found: {workout_type}")
             raise ValueError(f"Workout type not found: {workout_type}")
 
-        # Get all durations for this type
+        # Keep the public duration menu standardized.
         durations = self.db.query(WorkoutTemplate.duration_minutes).filter(
             WorkoutTemplate.workout_type == workout_type
         ).all()
+        available = sorted(list(set(d[0] for d in durations)))
+        missing = [value for value in STANDARD_DURATIONS if value not in available]
+        if missing:
+            logger.warning(
+                "Missing standard durations for %s: %s. Fallback-to-closest will be used.",
+                workout_type,
+                missing,
+            )
 
-        duration_list = sorted(list(set(d[0] for d in durations)))
-
-        logger.debug(f"Available durations for {workout_type}: {duration_list}")
-        return duration_list
+        logger.debug(f"Public durations for {workout_type}: {STANDARD_DURATIONS}")
+        return STANDARD_DURATIONS[:]
 
     def get_user_workouts(
         self, user_id: str, limit: int = 10, offset: int = 0

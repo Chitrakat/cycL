@@ -2,6 +2,8 @@ from __future__ import annotations
 
 from typing import Any
 
+from generators.validator import clamp_warmup_intensity
+
 
 INTERVAL_COUNT_BOUNDS: dict[str, tuple[int, int]] = {
     "HIIT": (6, 14),
@@ -232,6 +234,7 @@ def _with_durations(
     workout_type: str,
 ) -> dict[str, Any]:
     _reconcile_durations(intervals, target_duration * 60)
+    clamp_warmup_intensity(intervals)
     total_seconds = sum(item["duration_seconds"] for item in intervals)
     return {
         "intervals": intervals,

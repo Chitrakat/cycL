@@ -52,6 +52,7 @@ async def generate_workout(
         # Generate workout
         result = service.generate_workout(
             template_id=request.template_id,
+            duration_minutes=request.duration_minutes,
             user_ftp=request.ftp,
             fitness_level=request.fitness_level,
             user_id=request.user_id,

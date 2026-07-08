@@ -1,6 +1,13 @@
 from __future__ import annotations
 
-from generators.scaler import scale_hiit, scale_zone2
+from generators.scaler import (
+    scale_cadence,
+    scale_hiit,
+    scale_power,
+    scale_sweetspot,
+    scale_vo2max,
+    scale_zone2,
+)
 
 
 def test_scale_hiit_interval_count():
@@ -47,3 +54,34 @@ def test_scale_zone2_structure():
     zones = [interval["zone"] for interval in result["intervals"]]
     assert zones == ["warmup", "main set", "cooldown"]
     assert abs(result["estimated_seconds"] - (40 * 60)) <= 5
+
+
+def test_standard_duration_scaling_matrix():
+    scaler_map = {
+        "HIIT": scale_hiit,
+        "Zone 2": scale_zone2,
+        "Sweet Spot": scale_sweetspot,
+        "VO2max": scale_vo2max,
+        "Power": scale_power,
+        "Cadence": scale_cadence,
+    }
+
+    template = {
+        "duration_minutes": 20,
+        "interval_count": 8,
+        "work_duration_seconds": 60,
+        "rest_duration_seconds": 60,
+        "warmup_minutes": 5,
+        "cooldown_minutes": 5,
+        "default_power_level": "5/10",
+        "default_cadence_rpm": 85,
+        "power_profile": ["6/10", "7/10", "6/10", "7/10"],
+        "power_by_zone": {"warmup": "3/10", "main set": "6/10", "recovery": "2/10", "cooldown": "2/10"},
+    }
+
+    targets = [30, 40, 60]
+    for workout_type, scaler in scaler_map.items():
+        for target in targets:
+            result = scaler(dict(template), target, workout_type)
+            assert result["intervals"]
+            assert abs(result["estimated_seconds"] - (target * 60)) <= 5

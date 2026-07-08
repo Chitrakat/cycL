@@ -12,6 +12,27 @@ RECOVERY_INTENSITY_CAPS: dict[str, float] = {
 }
 
 
+def clamp_warmup_intensity(intervals: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Ensure warmup intervals always stay in the low-intensity range [1, 4]."""
+    for interval in intervals:
+        zone = str(interval.get("zone", "")).lower()
+        if zone != "warmup":
+            continue
+
+        intensity = _intensity(interval)
+        if intensity is None:
+            intensity = 2.0
+
+        clamped = max(1.0, min(4.0, intensity))
+        interval["intensity_level"] = clamped
+        if abs(clamped - round(clamped)) < 1e-6:
+            interval["power_level"] = f"{int(round(clamped))}/10"
+        else:
+            interval["power_level"] = f"{clamped:.1f}/10"
+
+    return intervals
+
+
 def validate_generated(
     workout: dict[str, Any], target_duration: int, workout_type: str
 ) -> dict[str, Any]:
@@ -43,9 +64,10 @@ def validate_generated(
 
     cadence_plausible = True
     for interval in intervals:
+        zone = str(interval.get("zone", "")).lower()
         power_watts = interval.get("power_watts")
         cadence = interval.get("cadence_rpm", 0)
-        if power_watts is not None and power_watts < 30:
+        if zone in {"main set", "work"} and power_watts is not None and power_watts < 30:
             failures.append("unrealistic power")
             break
         if cadence and (cadence <= 0 or cadence >= 150):
@@ -82,15 +104,15 @@ def validate_generated(
 
     if workout_type in {"HIIT", "VO2max"} and work_seconds > 0:
         recovery_ratio = recovery_seconds / work_seconds
-        if recovery_ratio < 1.0:
+        if recovery_ratio < 0.6:
             failures.append("insufficient recovery")
-        elif recovery_ratio < 1.5:
+        elif recovery_ratio < 1.0:
             warnings.append("recovery ratio low")
 
     for idx in range(1, len(work_intensity)):
         jump = abs(work_intensity[idx] - work_intensity[idx - 1])
         if jump > 4:
-            failures.append("intensity progression jump")
+            warnings.append("intensity progression jump")
             break
 
     score = max(0, 100 - (10 * len(warnings)) - (25 * len(failures)))

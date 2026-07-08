@@ -14,7 +14,7 @@ from generators.scaler import (
     scale_zone2,
 )
 from generators.template_manager import get_template
-from generators.validator import validate_generated
+from generators.validator import clamp_warmup_intensity, validate_generated
 
 
 class WorkoutGenerator:
@@ -67,6 +67,8 @@ class WorkoutGenerator:
 
         scaled = scaler(template, duration, workout_type)
         intervals = personalize(scaled["intervals"], user_ftp, fitness_level)
+        _reconcile_total_duration(intervals, duration * 60)
+        intervals = clamp_warmup_intensity(intervals)
         for interval in intervals:
             if "power_watts" not in interval:
                 interval["power_watts"] = None
@@ -105,3 +107,40 @@ def _parse_intensity(value: str) -> float | None:
         return float(token)
     except ValueError:
         return None
+
+
+def _reconcile_total_duration(intervals: list[dict[str, Any]], target_seconds: int) -> None:
+    current = sum(int(item.get("duration_seconds", 0)) for item in intervals)
+    delta = target_seconds - current
+    if delta == 0:
+        return
+
+    for zones in ({"cooldown"}, {"recovery"}, {"main set", "work"}, {"warmup"}):
+        if delta == 0:
+            break
+        for interval in intervals:
+            zone = str(interval.get("zone", "")).lower()
+            if zone not in zones:
+                continue
+
+            value = int(interval.get("duration_seconds", 0))
+            if value <= 0:
+                continue
+
+            if delta > 0:
+                step = min(delta, max(1, value // 4))
+                interval["duration_seconds"] = value + step
+                delta -= step
+            else:
+                reducible = max(0, value - 1)
+                if reducible <= 0:
+                    continue
+                step = min(abs(delta), max(1, value // 4), reducible)
+                interval["duration_seconds"] = value - step
+                delta += step
+
+    if delta != 0 and intervals:
+        # Final tiny correction on cooldown to hit the exact target.
+        interval = intervals[-1]
+        value = int(interval.get("duration_seconds", 0))
+        interval["duration_seconds"] = max(1, value + delta)
